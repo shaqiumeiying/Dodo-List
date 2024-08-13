@@ -1,0 +1,15 @@
+{
+  "name": "Diana's checklist",
+  "checklist": [
+    {
+      "name": "drink",
+      "done": false,
+      "urgent": false
+    },
+    {
+      "name": "eat",
+      "done": false,
+      "urgent": true
+    }
+  ]
+}
